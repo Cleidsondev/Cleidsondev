@@ -5,7 +5,7 @@
 - 💬 Dou show quando o assunto é aprender...
 - Visite o meu portifólio: https://elaborate-llama-6dbde8.netlify.app/#service
 ##
-<div align="center">
+<div>
   <a href="https://github.com/Cleidsondev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleidsondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleidsondev&layout=compact&langs_count=7&theme=tokyonight"/>
